@@ -26,7 +26,6 @@ riya@github:~$ whoami
 
 > Information Technology Student
 > Full Stack Web Developer
-> Passionate about Backend Engineering
 > Loves solving real-world problems with software
 > Always building something new
 ```
