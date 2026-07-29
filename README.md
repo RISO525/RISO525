@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Riya Solanki 👋
+# Hi, I'm Riya Solanki 
 
 ### Building software that solves real-world problems.
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 👩‍💻 whoami
+# whoami
 
 ```bash
 riya@github:~$ whoami
@@ -32,7 +32,7 @@ riya@github:~$ whoami
 
 ---
 
-# 🚀 ./currently
+# ./current update
 
 ```yaml
 building:
@@ -56,11 +56,9 @@ currently:
 
 ---
 
-# 🛠 Things I've Built
+# Projects I've worked on
 
 Software should solve real problems—not just exist as another college project.
-
-I enjoy understanding how users actually work, identifying pain points, and building practical solutions that make everyday tasks easier.
 
 ---
 
