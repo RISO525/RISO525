@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Riya 👋
 
-<!--
-**RISO525/RISO525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Information Technology Student
+- 💻 Full Stack Developer
+- 🌱 Currently building ArtisanHub
+- 📚 Learning System Design
+- 🚀 Interested in Backend Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- JavaScript
+- React
+- Express.js
+- PostgreSQL
+- Git
+
+## Projects
+
+### 🚀 ArtisanHub
+
+Business Management Platform + Marketplace for Handmade Creators
+
+### 📚 LMS Platform
+
+Learning Management System
+
+### 💼 Skill Vault
+
+Freelancing Platform
+
+### 📄 Dastaavej
+
+Document Management System
