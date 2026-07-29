@@ -172,55 +172,7 @@ These are technologies I've worked with.
 
 ---
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=RISO525&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RISO525&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RISO525&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 💡 Philosophy
-
-```java
-public class Riya {
-
-    String role = "Software Engineering Student";
-
-    String[] interests = {
-        "Backend Engineering",
-        "System Design",
-        "Full Stack Development"
-    };
-
-    String[] currentlyBuilding = {
-        "SkillVault",
-        "Dastaavej"
-    };
-
-    String philosophy =
-        "Understand the problem before writing the solution.";
-}
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build production-ready software
-- ✅ Strengthen Java & DSA
-- ✅ Master Backend Development
-- ✅ Learn System Design
-- ✅ Contribute to Open Source
-- ✅ Land a Software Engineering role
-
----
 
 # 🌐 Connect With Me
 
